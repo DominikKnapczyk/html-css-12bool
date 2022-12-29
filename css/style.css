@@ -1,0 +1,24 @@
+.box {
+	background-color: #006cfa;
+	min-height: 50px;
+	line-height: 50px;
+	text-align: center;
+	border: 1px solid white;
+	width: 100%;
+	color: white;
+}
+
+.box-green {
+	background-color: #00e165;
+	height: 50px;
+	line-height: 50px;
+	border: 1px solid #006cfa;
+	width: 100%;
+	padding: 0 5px;
+	color: white;
+	
+}
+
+.nested {
+	padding: 10px;
+}

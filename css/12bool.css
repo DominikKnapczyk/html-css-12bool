@@ -24,6 +24,11 @@
 	justify-content: space-evenly;
 }
 
+.ai-center {
+	align-items: center;
+}
+
+
 /* DISPLAYS */
 
 .d-flex {
@@ -62,6 +67,10 @@
 
 [class*="col-"] {
 	flex: 0 0 auto;
+}
+
+.margin {
+	margin-top: 20px;
 }
 
 /* COL */

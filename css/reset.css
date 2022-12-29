@@ -12,6 +12,7 @@
 
 body {
 	min-height: 100vh;
+	margin: 0;
 }
 
 img,
@@ -19,4 +20,9 @@ svg,
 picture,
 video {
 	max-width: 100%;
+}
+
+span {
+	font-size: 22px;
+	font-weight: bold;
 }
