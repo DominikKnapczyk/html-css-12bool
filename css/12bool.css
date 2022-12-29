@@ -69,8 +69,12 @@
 	flex: 0 0 auto;
 }
 
-.margin {
-	margin-top: 20px;
+.margin-top {
+	margin-top: 30px;
+}
+
+.margin-bottom {
+	margin-bottom: 30px;
 }
 
 /* COL */
